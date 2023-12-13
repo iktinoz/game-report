@@ -1,2 +1,2 @@
 # game-report
-Only bug report of THE game
+Only bug reports
